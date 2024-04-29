@@ -1,4 +1,4 @@
-SpringBoot CRUD Aplikacija za Upravljanje Korisnicima
+# SpringBoot CRUD Aplikacija za Upravljanje Korisnicima
 
 Ovaj projekt demonstrira CRUD (Create, Read, Update, Delete) aplikaciju koristeći Spring Boot i Thymeleaf za upravljanje korisničkim podacima. Obezbeđuje funkcionalnosti za listanje, dodavanje, brisanje i uređivanje korisnika. U nastavku su uputstva i delovi koda za postavljanje i korištenje ovih funkcionalnosti.
 
